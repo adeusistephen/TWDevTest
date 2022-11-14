@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TW.DevTest.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TW.DevTest.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TW.DevTest.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TW.DevTest.Core/1.0.0": {
+      "type": "project",
+      "path": "../TW.DevTest.Core/TW.DevTest.Core.csproj",
+      "msbuildProject": "../TW.DevTest.Core/TW.DevTest.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TW.DevTest.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\WHO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Apps\\TW.DevTest\\TW.DevTest.Infrastructure\\TW.DevTest.Infrastructure.csproj",
+      "projectName": "TW.DevTest.Infrastructure",
+      "projectPath": "C:\\Apps\\TW.DevTest\\TW.DevTest.Infrastructure\\TW.DevTest.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\WHO\\.nuget\\packages\\",
+      "outputPath": "C:\\Apps\\TW.DevTest\\TW.DevTest.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\WHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Apps\\Amygdalab": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dev.azure.com/alocastro0147/idworkflowplus/_packaging?_a=feed&feed=Aliasnet": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Apps\\TW.DevTest\\TW.DevTest.Core\\TW.DevTest.Core.csproj": {
+              "projectPath": "C:\\Apps\\TW.DevTest\\TW.DevTest.Core\\TW.DevTest.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

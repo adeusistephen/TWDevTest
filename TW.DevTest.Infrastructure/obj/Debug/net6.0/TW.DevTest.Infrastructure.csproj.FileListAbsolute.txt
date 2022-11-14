@@ -1,0 +1,15 @@
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\bin\Debug\net6.0\TW.DevTest.Infrastructure.deps.json
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\bin\Debug\net6.0\TW.DevTest.Infrastructure.dll
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\bin\Debug\net6.0\ref\TW.DevTest.Infrastructure.dll
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\bin\Debug\net6.0\TW.DevTest.Infrastructure.pdb
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\bin\Debug\net6.0\TW.DevTest.Core.dll
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\bin\Debug\net6.0\TW.DevTest.Core.pdb
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.AssemblyInfo.cs
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.csproj.CopyComplete
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.dll
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\ref\TW.DevTest.Infrastructure.dll
+C:\Apps\TW.DevTest\TW.DevTest.Infrastructure\obj\Debug\net6.0\TW.DevTest.Infrastructure.pdb

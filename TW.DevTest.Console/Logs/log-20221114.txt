@@ -1,0 +1,19 @@
+2022-11-14 10:49:28 PM [Info] test simple logger: 0
+
+2022-11-14 10:52:14 PM [Info] test simple logger: 0
+
+2022-11-14 10:52:16 PM [Info] test simple logger: 1
+
+2022-11-14 10:52:18 PM [Info] test simple logger: 2
+
+2022-11-14 10:52:18 PM [Info] test simple logger: 3
+
+2022-11-14 10:52:21 PM [Info] test simple logger: 4
+
+2022-11-14 10:52:21 PM [Info] test simple logger: 5
+
+2022-11-14 10:52:22 PM [Info] test simple logger: 6
+
+2022-11-14 10:52:22 PM [Info] test simple logger: 7
+
+2022-11-14 10:52:22 PM [Info] test simple logger: 8

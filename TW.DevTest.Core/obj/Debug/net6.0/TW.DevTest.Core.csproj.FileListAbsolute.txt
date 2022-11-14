@@ -1,0 +1,11 @@
+C:\Apps\TW.DevTest\TW.DevTest.Core\bin\Debug\net6.0\TW.DevTest.Core.deps.json
+C:\Apps\TW.DevTest\TW.DevTest.Core\bin\Debug\net6.0\TW.DevTest.Core.dll
+C:\Apps\TW.DevTest\TW.DevTest.Core\bin\Debug\net6.0\ref\TW.DevTest.Core.dll
+C:\Apps\TW.DevTest\TW.DevTest.Core\bin\Debug\net6.0\TW.DevTest.Core.pdb
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\TW.DevTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\TW.DevTest.Core.AssemblyInfoInputs.cache
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\TW.DevTest.Core.AssemblyInfo.cs
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\TW.DevTest.Core.csproj.CoreCompileInputs.cache
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\TW.DevTest.Core.dll
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\ref\TW.DevTest.Core.dll
+C:\Apps\TW.DevTest\TW.DevTest.Core\obj\Debug\net6.0\TW.DevTest.Core.pdb

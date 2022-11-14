@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TW.DevTest.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TW.DevTest.Core": "1.0.0"
+        },
+        "runtime": {
+          "TW.DevTest.Infrastructure.dll": {}
+        }
+      },
+      "TW.DevTest.Core/1.0.0": {
+        "runtime": {
+          "TW.DevTest.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TW.DevTest.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TW.DevTest.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
